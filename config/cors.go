@@ -1,7 +1,7 @@
 package config
 
 var allowedOrigins = []string{
-	"https://schoolaf.github.io/",
+	"https://barganakukuhraditya.github.io/",
 }
 
 // GetAllowedOrigins returns the list of allowed origins
